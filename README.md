@@ -1,17 +1,15 @@
-# adso2613934
+# tcods2770672
+## Técnico  en Desarrollo de Software
 ---
 
-##TGO en Análisis y Desarrollo de Software
+![Hollow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqYVEWFmINrX44yTYgdqoBJSCWj1QSG6SJa-HMT7lig&s)
 
-**Repositorio publico
+| Tema | Tipo | 
+|---------|-------| 
+|01. Wireframes | HIFI |
+|02. Prototype | Demo |
+|03. Style Guide | Colors & Logos |
+|04. Mockup | Final Design |
+|05. Layout | (html & css)) |
 
-**Lista de temas** publico
-| Temas | Tipo |
-|---------|-------|
-|1. POO |PHP Orientado a objetos|
-|2. PDO |Objetos de Datos en PHP | 
-|3. MVC |Modelo Vista Controlador en PHP | 
-|2. LARAVEL |Framework en PHP | 
-![Hollow](http://tinyurl.com/ycx3vz26)
- 
-
+[Drive -> Slides PDF](https://drive.google.com/drive/folders/1cUEOsM44rpspMfyWvY_YlnXlIm9uffej?usp=share_link)
